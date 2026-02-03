@@ -3,6 +3,8 @@
 To repozytorium dokumentuje mój **osobisty HomeLab**, zaprojektowany w celu symulacji **rzeczywistej architektury bezpieczeństwa klasy enterprise**.
 Laboratorium integruje usługi tożsamości, bezpieczeństwo sieci, ochronę endpointów, dostęp VPN oraz centralne logowanie/SIEM - wszystko **wdrożone, skonfigurowane i udokumentowane praktycznie (hands-on)**.
 
+> 🇬🇧 English version: [click here](https://github.com/Astawowski/HomeLab)
+
 ## Kluczowe technologie
 
 **Środowisko integruje:**
