@@ -21,10 +21,10 @@ Laboratorium integruje usługi tożsamości, bezpieczeństwo sieci, ochronę end
 
 **Więcej informacji o poszczególnych komponentach i wdrożeniach:**
 
-* [Elasticsearch & Kibana - wdrożenie i konfiguracja z AD TLS](https://github.com/Astawowski/HomeLab/blob/main/Architecture/elasticstack-tls-ad-setup.md)
-* [Elastic Fleet - wdrożenie i konfiguracja z AD TLS](https://github.com/Astawowski/HomeLab/blob/main/Architecture/fleet-deployed.md)
-* [Juniper NetScreen - wdrożenie i konfiguracja](https://github.com/Astawowski/HomeLab/blob/main/Architecture/juniper-netscreen-config.md)
-* [Palo Alto NGFW & GlobalProtect - wdrożenie i konfiguracja](https://github.com/Astawowski/HomeLab/blob/main/Architecture/palo-alto-ngfw-config.md)
+* [Elasticsearch & Kibana - wdrożenie i konfiguracja z AD TLS](https://github.com/Astawowski/HomeLab-PL/blob/main/Architecture/elasticstack-tls-ad-setup.md)
+* [Elastic Fleet - wdrożenie i konfiguracja z AD TLS](https://github.com/Astawowski/HomeLab-PL/blob/main/Architecture/fleet-deployed.md)
+* [Juniper NetScreen - wdrożenie i konfiguracja](https://github.com/Astawowski/HomeLab-PL/blob/main/Architecture/juniper-netscreen-config.md)
+* [Palo Alto NGFW & GlobalProtect - wdrożenie i konfiguracja](https://github.com/Astawowski/HomeLab-PL/blob/main/Architecture/palo-alto-ngfw-config.md)
 
 ---
 
@@ -125,8 +125,8 @@ Strefa **Internal** hostuje kluczowe usługi tożsamości, endpointów oraz moni
 
 **Więcej informacji**:
 
-* [Elasticsearch & Kibana z Active Directory](https://github.com/Astawowski/HomeLab/blob/main/Architecture/elasticstack-tls-ad-setup.md)
-* [Elastic Agent Fleet z Active Directory](https://github.com/Astawowski/HomeLab/blob/main/Architecture/fleet-deployed.md)
+* [Elasticsearch & Kibana z Active Directory](https://github.com/Astawowski/HomeLab-PL/blob/main/Architecture/elasticstack-tls-ad-setup.md)
+* [Elastic Agent Fleet z Active Directory](https://github.com/Astawowski/HomeLab-PL/blob/main/Architecture/fleet-deployed.md)
 
 ---
 
@@ -147,7 +147,7 @@ Strefa **Internal** hostuje kluczowe usługi tożsamości, endpointów oraz moni
 * konfiguracja IPSec w trybie **policy-based**.
 
 **Więcej informacji**:
-[Konfiguracja Juniper NetScreen](https://github.com/Astawowski/HomeLab/blob/main/Architecture/juniper-netscreen-config.md)
+[Konfiguracja Juniper NetScreen](https://github.com/Astawowski/HomeLab-PL/blob/main/Architecture/juniper-netscreen-config.md)
 
 ---
 
@@ -214,7 +214,7 @@ Strefa **Internal** hostuje kluczowe usługi tożsamości, endpointów oraz moni
 * Mapowanie user-to-IP oraz user-to-group pobierane z AD
 
 **Więcej informacji**:
-[Konfiguracja Palo Alto NGFW & GlobalProtect](https://github.com/Astawowski/HomeLab/blob/main/Architecture/palo-alto-ngfw-config.md)
+[Konfiguracja Palo Alto NGFW & GlobalProtect](https://github.com/Astawowski/HomeLab-PL/blob/main/Architecture/palo-alto-ngfw-config.md)
 
 ---
 
